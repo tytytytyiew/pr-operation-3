@@ -1,6 +1,15 @@
 #!/usr/bin/env python3
-import os, sys
-path = sys.argv[1] if len(sys.argv) > 1 else "."
-print(f"Содержимое: {os.path.abspath(path)}")
-for i in os.listdir(path):
-    print("DIR " if os.path.isdir(os.path.join(path, i)) else "FILE", i)
+import os
+import sys
+
+def list_directory(path="."):
+    abs_path = os.path.abspath(path)
+    print(f"=== Содержимое директории: {abs_path} ===")
+    for item in os.listdir(path):
+        item_path = os.path.join(path, item)
+        item_type = "[DIR] " if os.path.isdir(item_path) else "[FILE]"
+        print(f"{item_type} {item}")
+
+if __name__ == "__main__":
+    target = sys.argv[1] if len(sys.argv) > 1 else "."
+    list_directory(target)
