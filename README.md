@@ -1,2 +1,3 @@
-# ML Pipeline Project
-Учебный проект по созданию пайплайна машинного обучения (вехи 6-9).
+# Operating Systems. Practical Work
+Homework on the subject "Operating systems".
+Full name: Asanov Elmyrza
