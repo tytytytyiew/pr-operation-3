@@ -1,0 +1,2 @@
+2026-02-14 11:00:00 ERROR module=auth msg=login_failed
+2026-02-14 11:00:01 WARN module=db msg=high_latency
