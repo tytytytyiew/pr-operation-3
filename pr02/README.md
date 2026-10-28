@@ -1,4 +1,4 @@
-# Практическая работа № 2
+# Practical Work 2
 
-## Описание
-Скрипт анализа прав доступа к файлам.
+## Topic: File Permissions & Inodes
+

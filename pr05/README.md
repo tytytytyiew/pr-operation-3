@@ -1,4 +1,4 @@
-# Практическая работа № 5
+# Practical Work 5
 
-## Описание
-Скрипт работы с переменными среды.
+## Topic: Environment Variables
+

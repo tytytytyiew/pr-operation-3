@@ -1,4 +1,4 @@
-# Практическая работа № 7
+# Practical Work 7
 
-## Описание
-Скрипт рекурсивного обхода каталогов.
+## Topic: File System & Descriptors
+
