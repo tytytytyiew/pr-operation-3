@@ -1,0 +1,1 @@
+print('Practicum 06')
