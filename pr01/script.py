@@ -1,1 +1,0 @@
-print('Practicum 01')

@@ -1,3 +1,4 @@
-# Operating Systems. Practical Work
-Homework on the subject "Operating systems".
-Full name: Asanov Elmyrza
+# ML Pipeline Project (Milestones 6-9)
+
+Учебный проект по созданию и тестированию пайплайна машинного обучения.
+Реализованы команды через `argparse`, модульная структура (`mlpipe`), обучение модели и автоматические тесты `pytest`.
