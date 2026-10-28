@@ -1,5 +1,5 @@
 # Operating Systems - Practical Works (Вариант B / ОС)
-**Студент:** Асанов Элмырза (Asanov Elmyrza)  
+**Студент:** Конурбаев Барсбек (Konurbaev Barsbek)  
 **Университет:** Салымбеков Университет (Salymbekov University)  
 **Дисциплина:** Операционные системы  
 **Среда выполнения:** WSL (Ubuntu Linux) / Python 3  
